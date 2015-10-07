@@ -12,6 +12,6 @@ Time: I spent around 2 hours on the exercise
  
  Walkthrough of all the app stories:
  
- ![Video Walkthrough](gif.gif)
+![gif](https://cloud.githubusercontent.com/assets/13756344/10297986/1aed666a-6b8e-11e5-8e44-7709d2b2fde0.gif)
  
  The GIF was created with [LiceCap](http://www.cockos.com/licecap/).
